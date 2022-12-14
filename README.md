@@ -9,6 +9,6 @@ To switch the version from 17 to 14 follow below steps:
 Install the NVM package using the command,
 **curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash**
 
-Next, install Nodejs version 14.8.0 by executing command, 
+Next, install Nodejs version 14.8.0 by the executing command, 
 **nvm install 14.8.0**
 
