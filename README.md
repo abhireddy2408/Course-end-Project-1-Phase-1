@@ -1,5 +1,14 @@
-### Ngx-Admin Angular 8 application from akveo.com
+//Ngx-Admin Angular 8 application
 
-This is modified and more lightweight version of original application to practice UI Automation with Cypress.
+This project requires Node version **v14.8.0**
 
-The original repo is here: https://github.com/akveo/ngx-admin
+Simplilearn AT JG lab has by default node version **17** 
+
+**NVM** is a version manager for Nodejs and it allows users to use different node versions for different projects.
+
+To switch the version from 17 to 14 follow below steps:
+
+Install the NVM package using the command, **curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash**
+
+Next, let's install Nodejs version **14.8.0** by executing command, nvm install 14.8.0
+
