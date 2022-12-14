@@ -1,10 +1,10 @@
-This project requires Node version v14.8.0
+This project requires Node v14.8.0
 
-Simplilearn AT JG lab has Node v17 by default.
+Simplilearn AT JG lab comes with Node v17 by default.
 
-NVM is a version manager for Nodejs and it allows users to use different node versions for different projects.
+NVM is a Nodejs version manager that enables users to use different Node versions for different projects.
 
-To switch the version from 17 to 14 follow below steps:
+To switch the version from 17 to 14, follow the steps below:
 
 Install the NVM package using the command,
 **curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash**
