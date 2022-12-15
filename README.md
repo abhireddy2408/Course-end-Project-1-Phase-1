@@ -1,6 +1,6 @@
 This project requires Node v14.8.0
 
-Simplilearn AT JG lab comes with Node v17 by default.
+Simplilearn AT JG lab comes with Node v17.2.0 by default.
 
 NVM is a Nodejs version manager that enables users to use different Node versions for different projects.
 
