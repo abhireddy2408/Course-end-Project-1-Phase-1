@@ -12,3 +12,5 @@ Install the NVM package using the command,
 Next, install Nodejs version 14.8.0 by the executing command, 
 **nvm install 14.8.0**  //If you get an error, restart the terminal and try again. 
 
+To verify the installation and version, use the command:
+**node -v** or **node --version**
