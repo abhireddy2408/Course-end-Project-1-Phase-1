@@ -10,5 +10,5 @@ Install the NVM package using the command,
 **curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash**
 
 Next, install Nodejs version 14.8.0 by the executing command, 
-**nvm install 14.8.0**
+**nvm install 14.8.0**  //If you get an error, restart the terminal and try again. 
 
